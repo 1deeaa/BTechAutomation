@@ -31,7 +31,7 @@ Page Objects encapsulate:
 
 - user actions
 
-- page-level behavior
+- page level behavior
 
 This keeps tests:
 
@@ -50,7 +50,7 @@ API tests validate:
 
 - dynamic form submission
 
-- hazard → task → notification workflow
+- hazard -> task -> notification workflow
 
 These tests:
 
