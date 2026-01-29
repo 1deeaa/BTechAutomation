@@ -1,13 +1,13 @@
 # 🚀 WeMine Automation Test Repository
 
-## This repository contains automated tests for WeMine, covering critical user flows across authentication, equipment inspection, and safety hazard reporting.
+This repository contains automated tests for WeMine, covering critical user flows across authentication, equipment inspection, and safety hazard reporting.
 
 The goal of this project is to demonstrate a balanced automation strategy using:
 1. End to end (E2E) tests for critical user journeys
 2. API tests for business rules and integrations
 3. Page Object Model for maintainability
 
-# 🧭 How to Read This Repository
+## 🧭 How to Read This Repository
 ## Start with the E2E tests
 📂 ``` tests/e2e/ ```
 
@@ -33,7 +33,7 @@ Page Objects encapsulate:
 
 - page-level behavior
 
-### This keeps tests:
+This keeps tests:
 
 - readable
 
